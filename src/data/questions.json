@@ -1489,7 +1489,7 @@
   },
   {
     "id": 49,
-    "question": "Question: 46 Exam Heist Question: 47 Exam Heist Question: 48 Exam Heist A user new to Databricks is trying to troubleshoot long execution times for some pipeline logic they are working on. Presently, the user is executing code cell-by-cell, using display() calls to confirm code is producing the logically correct results as new transformations are added to an operation. To get a measure of average time to execute, the user is running each cell multiple times interactively. Which of the following adjustments will get a more accurate measure of how code is likely to perform in production?",
+    "question": "A user new to Databricks is trying to troubleshoot long execution times for some pipeline logic they are working on. Presently, the user is executing code cell-by-cell, using display() calls to confirm code is producing the logically correct results as new transformations are added to an operation. To get a measure of average time to execute, the user is running each cell multiple times interactively. Which of the following adjustments will get a more accurate measure of how code is likely to perform in production?",
     "choices": [
       {
         "id": "A",
