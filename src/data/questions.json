@@ -3832,7 +3832,7 @@
   },
   {
     "id": 126,
-    "question": "Question: 125 Exam Heist A junior member of the data engineering team is exploring the language interoperability of Databricks notebooks. The intended outcome of the below code is to register a view of all sales that occurred in countries on the continent of Africa that appear in the geo_lookup table. Before executing the code, running SHOW TABLES on the current database indicates the database contains only two tables: geo_lookup and sales. What will be the outcome of executing these command cells m order m an interactive notebook?",
+    "question": "A junior member of the data engineering team is exploring the language interoperability of Databricks notebooks. The intended outcome of the below code is to register a view of all sales that occurred in countries on the continent of Africa that appear in the geo_lookup table. Before executing the code, running SHOW TABLES on the current database indicates the database contains only two tables: geo_lookup and sales. What will be the outcome of executing these command cells m order m an interactive notebook?",
     "choices": [
       {
         "id": "A",
